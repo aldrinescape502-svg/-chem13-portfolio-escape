@@ -1,6 +1,6 @@
 Disclosure of my use of AI
 
-I utilized ChatGPT by OpenAI (GPT-5.6 Luna) to assist me in gathering information, cross-checking my references, and reviewing the contents of my organic compound infographics. I also used ChatGPT to ask for recommendations regarding how the information should be organized, whether the contents were sufficient, and what additional information could improve the overall presentation.
+I utilized ChatGPT by OpenAI (GPT-5.6 Luna) to assist me in gathering information, finding and cross-checking my references, and reviewing the contents of my organic compound infographics. I also used ChatGPT to ask for recommendations regarding how the information should be organized, whether the contents were sufficient, and what additional information could improve the overall presentation.
 
 Moreover, I utilized ChatGPT to visualize how my infographics could be organized and presented before creating the final versions. I asked ChatGPT to make a mini-layout simulation showing how the different sections, images, and information could be arranged on the page. This allowed me to preview and compare possible orientations and layouts and determine which arrangement would best suit the infographic before proceeding with the actual design.
 
