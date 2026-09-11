@@ -1,4 +1,5 @@
 REFERENCES:
+
 Burdett, I. D., & Eisinger, R. S. (2017). Ethylene polymerization processes and manufacture of polyethylene. Handbook of Industrial Polyethylene and Technology, 61–103. https://doi.org/10.1002/9781119159797.ch3
 
 National Institute of Standards and Technology. (2023). Ethylene. NIST Chemistry Webbook, 69. https://doi.org/10.18434/T4D303
