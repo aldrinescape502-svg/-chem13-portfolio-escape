@@ -1,0 +1,11 @@
+AI Use Disclosure
+
+CHEM 13 – Organic Chemistry, Activity 3: Name It, Draw It!
+
+For this activity, I used Claude, an AI developed by Anthropic, to help me complete several parts of the work. In Part A, I asked Claude what to write in the naming trail, and in Part B, I asked it to help with the name decoded. I gave Claude the format required by the activity along with the worked examples provided, and it produced the answers and explained the concepts behind them, such as identifying the parent chain and substituents and applying IUPAC naming rules, following the format I gave it.
+
+I also used Claude to double-check the look of my bond-line structures for part B, to see whether what I drew was correct and matched the given name. I took inspiration from the images Claude generated when finalizing my own drawings.
+
+After receiving Claude’s output, I read through it and included it in my submission. I understand that I am responsible for the final content of this work and for the accuracy of what I submitted.
+
+AI Tool Used: Claude AI by Anthropic
